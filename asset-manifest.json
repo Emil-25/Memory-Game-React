@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Emil-25/Memory-Game-React/static/css/main.44dcf529.css",
-    "main.js": "/Emil-25/Memory-Game-React/static/js/main.2da9d469.js",
-    "static/media/brain-bg.jpg": "/Emil-25/Memory-Game-React/static/media/brain-bg.4d260de335d927451ab6.jpg",
-    "index.html": "/Emil-25/Memory-Game-React/index.html",
-    "main.44dcf529.css.map": "/Emil-25/Memory-Game-React/static/css/main.44dcf529.css.map",
-    "main.2da9d469.js.map": "/Emil-25/Memory-Game-React/static/js/main.2da9d469.js.map"
+    "main.css": "/Memory-Game-React/static/css/main.5214a3ac.css",
+    "main.js": "/Memory-Game-React/static/js/main.2da9d469.js",
+    "static/media/brain-bg.jpg": "/Memory-Game-React/static/media/brain-bg.4d260de335d927451ab6.jpg",
+    "index.html": "/Memory-Game-React/index.html",
+    "main.5214a3ac.css.map": "/Memory-Game-React/static/css/main.5214a3ac.css.map",
+    "main.2da9d469.js.map": "/Memory-Game-React/static/js/main.2da9d469.js.map"
   },
   "entrypoints": [
-    "static/css/main.44dcf529.css",
+    "static/css/main.5214a3ac.css",
     "static/js/main.2da9d469.js"
   ]
 }
