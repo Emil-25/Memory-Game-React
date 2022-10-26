@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Emil-25/Memory-Game-React/static/css/main.44dcf529.css",
+    "main.js": "/Emil-25/Memory-Game-React/static/js/main.2da9d469.js",
+    "static/media/brain-bg.jpg": "/Emil-25/Memory-Game-React/static/media/brain-bg.4d260de335d927451ab6.jpg",
+    "index.html": "/Emil-25/Memory-Game-React/index.html",
+    "main.44dcf529.css.map": "/Emil-25/Memory-Game-React/static/css/main.44dcf529.css.map",
+    "main.2da9d469.js.map": "/Emil-25/Memory-Game-React/static/js/main.2da9d469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44dcf529.css",
+    "static/js/main.2da9d469.js"
+  ]
+}
