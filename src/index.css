@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-[url("./images/brain-bg.jpg")] bg-fixed bg-center bg-cover
+    }
+}
+
+@layer utilities {
+    .flipcard {
+        -webkit-perspective: 1000px;
+                perspective: 1000px;
+    }
+    .flipcard-inner {
+        -webkit-transform-style: preserve-3d;
+                transform-style: preserve-3d; 
+    }
+    .backface {
+        -webkit-backface-visibility: hidden;
+                backface-visibility: hidden;
+    }
+    .turned {
+        @apply rotate-y-180;
+    }
+    .parent-blocked {
+        pointer-events: none;
+    }
+    .pairs-turned {
+        @apply rotate-y-180;
+    }
+    .pairs-parents-blocked {
+        pointer-events: none;
+    }
+}
