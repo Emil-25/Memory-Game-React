@@ -1,7 +1,7 @@
 {
   "name": "memory-game",
   "version": "0.1.0",
-  "homepage":"https://github.com/Emil-25/Memory-Game-React",
+  "homepage":"https://emil-25.github.io/Memory-Game-React/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
